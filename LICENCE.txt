@@ -1,0 +1,5 @@
+This repository contains data/material derived from the Pelita educational game and the pelita_template repository maintained by ASPP.
+https://github.com/ASPP/pelita_template
+
+Pelita is used at the ASPP school, where students are encouraged to clone and experiment with the repository.
+The original material is attributed to its original authors; no claim of authorship over that material is made.
